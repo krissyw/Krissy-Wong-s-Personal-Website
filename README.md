@@ -12,7 +12,15 @@ Core Competencies:
 • User Growth: A/B Testing | Funnel Analysis 
 • Project Management: Agile | Scrum
 
-Besides business analytics, I enjoy doing pilates, going to the gym, and cooking. :) 
+Besides business analytics, I enjoy doing pilates, going to the gym, and cooking. 😊
+
+# [My Resume](https://github.com/krissyw/Krissy-Wong-s-Personal-Website/blob/main/Krissy_Wong_resume.pdf) | [My LinkedIn](https://www.linkedin.com/in/krissy-wong/)
 
 
-# [Resume](https://github.com/krissyw/Krissy-Wong-s-Personal-Website/blob/main/Krissy_Wong_resume.pdf) | [LinkedIn](https://www.linkedin.com/in/krissy-wong/)
+# Projects 
+
+## [reMarkable Project](https://github.com/LMU-MSBA/bsan-6080-reMarkable)
+I worked with a team of six students to analyze custoemr tweets about reMarkable, a Norwegian based tablet company. We created a K-means clustering model to extract popoular topics about the company. We interpreted, analyzed, and derived insights from the clusters. Our team created a [sales dashboard](https://public.tableau.com/app/profile/daniel.enciso/viz/ReMarkable_Sales_Dashboard/Sales_Dashboard?publish=yes) and a [general dashboard](https://public.tableau.com/app/profile/tingli.lin/viz/Combined_16516139118450/Dashboard1) to help reMarkable manage KPIs.
+
+
+
