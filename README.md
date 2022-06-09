@@ -1,4 +1,4 @@
-# Krissy-Wong-s-Personal-Website
+# Krissy Wong's Personal Website
 
 Hello! My name is Krissy Wong and I am a recent Master of Science in Business Analytics graduate students from Loyola Marymount University (LMU).
 
