@@ -10,7 +10,7 @@ Core Competencies:
             
             • Data Analysis & Visualizations: Microsoft Excel | Python | R | Tableau 
 
-            • Machine Learning & Text Analytics: Regression | Decision Trees| Random Forest | KNN | K-means | Naive Bayes | XGBoost | Gradient Boost |               AdaBoost | LDA | NLP
+            • Machine Learning & Text Analytics: Regression | Decision Trees| Random Forest | KNN | K-means | Naive Bayes | XGBoost | Gradient Boost | AdaBoost | LDA | NLP
 
             • Computer Science: Python
 
