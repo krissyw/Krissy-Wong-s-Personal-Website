@@ -29,4 +29,4 @@ Besides business analytics, I enjoy doing pilates, going to the gym, and cooking
 I worked with a team of six students to analyze custoemr tweets about reMarkable, a Norwegian based tablet company. We created a K-means clustering model to extract popoular topics about the company. We interpreted, analyzed, and derived insights from the clusters. Our team created a [sales dashboard](https://public.tableau.com/app/profile/daniel.enciso/viz/ReMarkable_Sales_Dashboard/Sales_Dashboard?publish=yes) and a [general dashboard](https://public.tableau.com/app/profile/tingli.lin/viz/Combined_16516139118450/Dashboard1) to help reMarkable manage KPIs.
 
 
-## [RMDS Data Competition]( 
+
