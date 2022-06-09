@@ -6,17 +6,17 @@ I am passionate to learn about the intersection of business, technology, and dat
 
 Core Competencies: 
 
-• Data Analysis & Visualizations: Microsoft Excel | Python | R | Tableau 
+  • Data Analysis & Visualizations: Microsoft Excel | Python | R | Tableau 
 
-• Data Pipelines & Data Warehouse: SQL 
+  • Data Pipelines & Data Warehouse: SQL 
 
-• Machine Learning & Text Analytics: Regression | Decision Trees| Random Forest | KNN | K-means | Naive Bayes | XGBoost | Gradient Boost | AdaBoost | LDA | NLP
+  • Machine Learning & Text Analytics: Regression | Decision Trees| Random Forest | KNN | K-means | Naive Bayes | XGBoost | Gradient Boost | AdaBoost |     LDA | NLP
 
-• Computer Science: Python
+  • Computer Science: Python
 
-• User Growth: A/B Testing | Funnel Analysis 
+  • User Growth: A/B Testing | Funnel Analysis 
 
-• Project Management: Agile | Scrum
+  • Project Management: Agile | Scrum
 
 Besides business analytics, I enjoy doing pilates, going to the gym, and cooking. 😊
 
