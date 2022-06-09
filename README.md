@@ -13,3 +13,6 @@ Core Competencies:
 • Project Management: Agile | Scrum
 
 Besides business analytics, I enjoy doing pilates, going to the gym, and cooking. :) 
+
+
+[Resume](#real-cool-heading](https://github.com/krissyw/Krissy-Wong-s-Personal-Website/blob/main/Krissy_Wong_resume.pdf))
