@@ -15,4 +15,4 @@ Core Competencies:
 Besides business analytics, I enjoy doing pilates, going to the gym, and cooking. :) 
 
 
-[Resume](https://github.com/krissyw/Krissy-Wong-s-Personal-Website/blob/main/Krissy_Wong_resume.pdf)
+***[Resume](https://github.com/krissyw/Krissy-Wong-s-Personal-Website/blob/main/Krissy_Wong_resume.pdf) | ***[LinkedIn] (https://www.linkedin.com/in/krissy-wong/)
